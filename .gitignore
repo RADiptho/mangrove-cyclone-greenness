@@ -1,0 +1,15 @@
+# data, caches and outputs are produced locally and never committed
+data/mendeley/*
+data/ibtracs/*
+!data/mendeley/.gitkeep
+!data/ibtracs/.gitkeep
+work/
+outputs/
+logs/
+*.pkl
+*.npz
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
