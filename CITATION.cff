@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and the dataset."
+title: "Event-specific mangrove greenness responses to tropical cyclones in the Bay of Bengal: analysis code"
+version: 1.0.0
+date-released: 2026-10-27
+license: MIT
+authors:
+  - family-names: Diptho
+    given-names: Rakib Ahammed
+    orcid: "https://orcid.org/0009-0007-3062-1034"
+    affiliation: "Jahangirnagar University; National University"
+  - family-names: Ghosh
+    given-names: Pial
+    affiliation: "BRAC University"
+references:
+  - type: article
+    title: "Event specific mangrove greenness responses to tropical cyclones across wind exposure classes in the Bay of Bengal"
+    authors:
+      - family-names: Diptho
+        given-names: Rakib Ahammed
+      - family-names: Ghosh
+        given-names: Pial
+    journal: "Discover Earth Observation"
+    status: submitted
+  - type: dataset
+    title: "Event Aligned MODIS Dataset of Mangrove Greenness Responses to Eleven Tropical Cyclones in the Bay of Bengal from 2007 to 2024"
+    authors:
+      - family-names: Diptho
+        given-names: Rakib Ahammed
+      - family-names: Ghosh
+        given-names: Pial
+    publisher:
+      name: "Mendeley Data"
+    doi: "10.17632/r32hyd39dj.1"
