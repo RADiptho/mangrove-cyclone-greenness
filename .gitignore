@@ -1,0 +1,12 @@
+data/*
+!data/README.md
+work/
+outputs/
+logs/
+__pycache__/
+*.pyc
+*.pkl
+*.npz
+.env
+.venv/
+.DS_Store
